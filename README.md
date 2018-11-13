@@ -16,6 +16,10 @@ Guava comes in two flavors.
 
 [`android` directory]: https://github.com/google/guava/tree/master/android
 
+## This is a new change.
+
+Nothing to see here...
+
 ## Adding Guava to your build
 
 Guava's Maven group ID is `com.google.guava` and its artifact ID is `guava`.
