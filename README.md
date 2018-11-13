@@ -20,6 +20,10 @@ Guava comes in two flavors.
 
 Nothing to see here...
 
+## This is the second new change.
+
+Commit #2
+
 ## Adding Guava to your build
 
 Guava's Maven group ID is `com.google.guava` and its artifact ID is `guava`.
