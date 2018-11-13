@@ -26,6 +26,8 @@ Commit #2
 
 Commit #3
 
+Commit #4
+
 ## Adding Guava to your build
 
 Guava's Maven group ID is `com.google.guava` and its artifact ID is `guava`.
