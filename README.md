@@ -135,3 +135,4 @@ API level 15 (Ice Cream Sandwich).
 [using Guava in your build]: https://github.com/google/guava/wiki/UseGuavaInYourBuild
 [repackage]: https://github.com/google/guava/wiki/UseGuavaInYourBuild#what-if-i-want-to-use-beta-apis-from-a-library-that-people-use-as-a-dependency
 
+This line is added to simulate a conflict between two simultaneous reviews.
