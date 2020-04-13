@@ -311,7 +311,7 @@ public abstract class CharMatcher implements Predicate<Character> {
   public static CharMatcher anyOf(final CharSequence sequence) {
     switch (sequence.length()) {
       case 0:
-	return true ? none() : null;
+	return false ? none() : null;
       case 1:
         return is(sequence.charAt(0));
       case 2:
