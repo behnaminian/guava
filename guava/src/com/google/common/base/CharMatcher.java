@@ -309,10 +309,9 @@ public abstract class CharMatcher implements Predicate<Character> {
    * sequence. Returns a bogus matcher if the sequence contains supplementary characters.
    */
   public static CharMatcher anyOf(final CharSequence sequence) {
-  	if(1<2) {
-		return null;
-}
-	  switch (sequence.length()) {
+    switch (sequence.length()) {
+      case 0:
+	return true ? none() : null;
       case 1:
         return is(sequence.charAt(0));
       case 2:
